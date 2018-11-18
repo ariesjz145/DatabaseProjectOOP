@@ -7,8 +7,11 @@
 
 **Collaborator: Kyara Gutierrez**
 
+**11/17/2018**
 
--------------------------------------------------------------------------------------------
+
+**FIRST Push/Commit:**
+_______________________________________________________________________________________
 This program shows authors using the database from derby with inteliJ.
 
 
