@@ -15,4 +15,4 @@ ________________________________________________________________________________
 This program shows authors using the database from derby with inteliJ.
 
 
-I was going to modify it to show different types of cars being examined within the database but it crashed the program.
+We were all attempting to do a different application with the database. I was going to modify it to show different types of cars being examined within the database but it crashed the program and did not work.
