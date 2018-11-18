@@ -5,7 +5,7 @@
 **Author: Joshua Zamora**
 
 
-**Collaborator: Kyara Gutierrez**
+**Collaborator: Kyara Gutierrez, Brandon Palomino**
 
 **11/17/2018**
 
